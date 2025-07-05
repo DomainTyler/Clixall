@@ -4,7 +4,6 @@
 [![Version](https://img.shields.io/github/v/release/DomainTyler/Clixall?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/DomainTyler/Clixall/releases/latest)
 [![Documentation](https://img.shields.io/badge/Documentation-View%20Wiki-grey?style=for-the-badge&logo=bookstack)](https://github.com/DomainTyler/Clixall/wiki)
 [![License: MIT](https://img.shields.io/github/license/DomainTyler/Clixall?style=for-the-badge&color=green)](https://github.com/DomainTyler/Clixall/blob/main/LICENSE)
-[![Code Size](https://img.shields.io/github/languages/code-size/DomainTyler/Clixall?style=for-the-badge)](https://github.com/DomainTyler/Clixall)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 [![Repo Size](https://img.shields.io/github/repo-size/DomainTyler/Clixall?style=for-the-badge)](https://github.com/DomainTyler/Clixall)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](#)
